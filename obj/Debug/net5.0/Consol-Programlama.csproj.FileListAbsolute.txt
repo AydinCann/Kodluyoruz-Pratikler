@@ -1,0 +1,16 @@
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\bin\Debug\net5.0\Consol-Programlama.exe
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\bin\Debug\net5.0\Consol-Programlama.deps.json
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\bin\Debug\net5.0\Consol-Programlama.runtimeconfig.json
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\bin\Debug\net5.0\Consol-Programlama.runtimeconfig.dev.json
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\bin\Debug\net5.0\Consol-Programlama.dll
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\bin\Debug\net5.0\ref\Consol-Programlama.dll
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\bin\Debug\net5.0\Consol-Programlama.pdb
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\obj\Debug\net5.0\Consol-Programlama.csprojAssemblyReference.cache
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\obj\Debug\net5.0\Consol-Programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\obj\Debug\net5.0\Consol-Programlama.AssemblyInfoInputs.cache
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\obj\Debug\net5.0\Consol-Programlama.AssemblyInfo.cs
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\obj\Debug\net5.0\Consol-Programlama.csproj.CoreCompileInputs.cache
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\obj\Debug\net5.0\Consol-Programlama.dll
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\obj\Debug\net5.0\ref\Consol-Programlama.dll
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\obj\Debug\net5.0\Consol-Programlama.pdb
+C:\Users\TCM\Desktop\Pratikler\Consol-Programlama\obj\Debug\net5.0\Consol-Programlama.genruntimeconfig.cache
